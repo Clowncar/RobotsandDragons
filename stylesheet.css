@@ -1,0 +1,43 @@
+body {
+	background-color: #c7bfb7
+}
+
+h1 {
+	font-family: Century Gothic; margin-left: 600px;  
+}
+
+p, ul {
+	margin-left: 100px; margin-right: 100px; font-family: Century Gothic, Arial, sans-serif; font-color: #424242; font-size: 23px
+}
+
+a {
+	text-decoration: none;
+}
+a:hover { 
+	color: #005073
+}
+
+.attribution {
+	margin-left: 500px
+}
+
+#my-city { 
+	margin-left: 300px; border-style: double; border-width: 40px
+}
+
+#street-art-robot {
+	margin-left: 485px; border-style: double; border-width: 40px
+}
+
+#robot-night {
+	margin-left: 300px; border-style: double; border-width: 40px
+}
+
+#robot-day {
+	margin-left: 474px; border-style: double; border-width: 40px
+}
+
+
+
+
+

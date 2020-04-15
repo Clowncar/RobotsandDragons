@@ -1,0 +1,46 @@
+body {
+	background-color: #c7bfb7
+}
+
+h1  {
+	font-family: Unifraktor Cook, cursive, fantasy; font-size: 60px; margin-left: 500px
+}
+
+p {
+	margin-left: 100px; margin-right: 100px; font-family: Unifraktor Cook, cursive, fantasy; font-size:25px
+}
+
+a:hover { 
+	color: #005073
+}
+
+a {
+	color: #424242; text-decoration: none;
+} 
+
+ul {
+	margin-left: 100px; font-family: Unifraktor Cook, cursive, fantasy; font-color: #424242; font-size: 25px; 
+}
+
+.attribution {
+	margin-left: 500px
+}
+
+#castle {
+	margin-left: 384px; border-style: groove; border-width: 40px; border-color: #5e3c58
+}
+
+#stupid-dragon {
+	margin-left: 520px; border-style: groove; border-width: 40px; border-color: #5e3c58
+}
+
+#dragon-eyes {
+	margin-left: 454px; border-style: groove; border-width: 40px; border-color: #5e3c58
+}
+
+
+
+
+
+
+
